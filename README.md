@@ -9,3 +9,12 @@
     
   Base de datos ver:  
   https://metacpan.org/pod/Dancer2::Plugin::Database  
+  
+  Crear una aplicación y lanzar:  
+  dancer2 -a MyWeb::App  
+  cd MyWeb-App  
+  plackup -r bin/app.psgi  
+  
+  
+
+
