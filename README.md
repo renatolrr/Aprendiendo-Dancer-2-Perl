@@ -6,3 +6,6 @@
     
   cpan Dancer2 Template File::Slurper DBD::SQLite  
   ojo: necesita perl 5.20  
+    
+  Base de datos ver:  
+  https://metacpan.org/pod/Dancer2::Plugin::Database  
